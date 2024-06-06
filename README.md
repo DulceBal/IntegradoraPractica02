@@ -40,6 +40,7 @@ EJEMPLO
 Son utilizados para presentar grandes secciones de texto que describren detalladamente las secciones de la documentación del proyecto.
 
 EJEMPLO:
+
 Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1
 
 
@@ -55,10 +56,56 @@ Este párrafo está alineado a la derecha utilizando la propiedad de alineación
 
 </p>
 
+<p align="center">
+Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.Este párrafo está  centrado usando la propiedad de alineación.
+
+</p>
+
 <p align="justify">
 Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.Este párrafo está justificado utilizando la propiedad de alineación.
 
 </p>
+
+### 4. Texto Enfatizado (BOLD, ITALIC, BOLD/ITALIC)
+
+Si el texto que debemos enfatizar se encuentra de un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación.
+
+
+##### Texto en Negrita (BOLD)
+
+Para poder poner el texto en negrita, este deber  ser encerrado entre doble **.
+
+
+EJEMPLO:
+
+
+Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+
+
+##### Texto en Cursiva (ITALIC)
+
+Para poder poner el texto en cursiva, este deber  ser encerrado entre * o -.
+
+
+EJEMPLO:
+
+
+Texto Texto Texto Texto Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+
+
+##### Texto en Negrita/Cursiva (BOLD/ITALIC)
+Para poder poner el texto en negrita/cursiva, este deber  ser encerrado entre triple ***.
+
+
+EJEMPLO:
+
+
+Texto Texto Texto Texto Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+
+
+
+
+
 
 
 
