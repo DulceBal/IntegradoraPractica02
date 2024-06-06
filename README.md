@@ -100,8 +100,9 @@ Para poder poner el texto en negrita/cursiva, este deber  ser encerrado entre tr
 EJEMPLO:
 
 
-Texto Texto Texto Texto Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+Texto Texto Texto Texto Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
 
+#### Subrayado (UNDERLINE)
 
 Algunas veces necesitaremos subrayar Texto dentro de la documentación,  para ello, si bien markdown no tiene un atajo o codificación rápida podemos utilizar el estilo que se usa al estándar de HTML usando el tag \<ins> y cerrado con \</ins>.
 
@@ -157,6 +158,12 @@ Para crear tu primer repositorio en GitHub deberás:
 50. Definir si habrá exclusiones de archivo a través del archivo: *gitignore*
 3. Guardar cambios. 
 
+#### 7. Ligas (Hipervinculos)
+
+Las ligas son utilizadas para vincular elementos preferencias del proyecto dentro del mismo Repositorio o fuera de el. Y se maquetan utilizando los corchetes \[\]
+
+***Ejemplo:**
+Mi buscador favorito es: [Google]
 
 
 
