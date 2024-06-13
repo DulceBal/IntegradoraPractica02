@@ -162,7 +162,7 @@ Para crear tu primer repositorio en GitHub deberás:
 
 Las ligas son utilizadas para vincular elementos preferencias del proyecto dentro del mismo Repositorio o fuera de el. Y se maquetan utilizando los corchetes \[\]
 
-***Ejemplo:**
+**Ejemplo:**
 Mi buscador favorito es: [Google](https://www.google.com).
 
 Pero si deseamos po er solo las ligas directas o un correo electrónico podemos utilizar los símbolos \< \>
@@ -174,7 +174,15 @@ Documentación creada por: ***Alumna Dulce Balderas Gomez***
 <http://www.utxicotepec.edu.mx>
 
 ### 8. Insertar Imagenes
-Para incluir imagenes enn nuestro repositorio primero ingresamos a nuestro repositorio, despues haz clic en el botón "Add file" y luego en "Upload files", arrastra la imagen a subir. Despues haz clic en "Commit changes" para confirmar la carga. Por ultimo para poder incluir la imagen utiliza la sintaxis **'![Descripción](Link.png)'**
+Para incluir imagenes enn nuestro repositorio primero ingresamos a nuestro repositorio, despues haz clic en el botón "Add file" y luego en "Upload files", arrastra la imagen a subir. Despues haz clic en "Commit changes" para confirmar la carga. Por ultimo para poder incluir la imagen utiliza la sintaxis **'![Descripcion](link de la imagen)'**
+
+**Ejemplo:**
+Imagen de Logo de Universidad Tecnologica de Xicotepec de Juárez Carrera Tecnologías de la Información.
+
+![Logo](logo_ti.jpeg)'
+
+
+
 
 
 
