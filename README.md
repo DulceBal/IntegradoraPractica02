@@ -179,7 +179,7 @@ Para incluir imagenes enn nuestro repositorio primero ingresamos a nuestro repos
 **Ejemplo:**
 Imagen de Logo de Universidad Tecnologica de Xicotepec de Juárez Carrera Tecnologías de la Información.
 
-![Logo](logo_ti.jpeg)'
+![Logo](Logo_ti.jpeg)'
 
 
 
