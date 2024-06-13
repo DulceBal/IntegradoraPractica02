@@ -174,7 +174,7 @@ Documentación creada por: ***Alumna Dulce Balderas Gomez***
 <http://www.utxicotepec.edu.mx>
 
 ### 8. Insertar Imagenes
-Para incluir imagenes enn nuestro repositorio primero ingresamos a nuestro repositorio, despues haz clic en el botón "Add file" y luego en "Upload files", arrastra la imagen a subir. Despues haz clic en "Commit changes" para confirmar la carga. Por ultimo para poder incluir la imagen utiliza la sintaxis **'![Descripcion](link de la imagen)'**
+Para incluir imagenes primero ingresamos a nuestro repositorio, despues haz clic en el botón "Add file" y luego en "Upload files", arrastra la imagen a subir. Despues haz clic en "Commit changes" para confirmar la carga. Por ultimo para poder incluir la imagen utiliza la sintaxis **'![Descripcion](link de la imagen)'**
 
 **Ejemplos:**
 
